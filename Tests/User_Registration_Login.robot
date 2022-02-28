@@ -1,6 +1,6 @@
 *** Settings ***
 Documentation  Smoke testing to validate the usage of robot framework as automation platform
-...            test environment http://automationpractice.com/index.php
+...            test environment with Gherkin syntax http://automationpractice.com/index.php
 Resource       ../Resources/Loga_Automation.robot
 Suite Setup    set log level  DEBUG
 Test Setup     set selenium speed  0.01
