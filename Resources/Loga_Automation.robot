@@ -11,7 +11,7 @@ ${SIGNIN_LINK}  xpath://*[@id="header"]/div[2]/div/div/nav/div[1]/a
 ${REGISTRATION_EMAIL_FIELD}  id:email_create
 ${REGISTRATION_EMAIL}  xpath://input[@type="text"][@id="email_create"]
 ${CREATE_ACCOUNT_BUTTON}  xpath://span[normalize-space()='Create an account']
-${CUSTOMER_GENDER}  name:id_gender
+${CUSTOMER_GENDER}  xpath://input[@type="radio"][@id="id_gender1"]
 ${CUSTOMER_FIRSTNAME}  id:customer_firstname
 ${CUSTOMER_LASTNAME}  xpath://input[@id="customer_lastname"][@type="text"]
 ${CUSTOMER_PASSWORD}  id:passwd
@@ -49,7 +49,7 @@ User on Application Homepage
 
 New User Account is created
    Click Element  ${SIGNIN_LINK}
-   Wait Until Element is Enabled  ${REGISTRATION_EMAIL_FIELD}  3s
+   Wait Until Element is Enabled  ${REGISTRATION_EMAIL_FIELD}  0.01s
    Click Element  ${REGISTRATION_EMAIL_FIELD}
 
   ${email}=  FakerLibrary.email
@@ -59,7 +59,7 @@ New User Account is created
    Click Element  ${CREATE_ACCOUNT_BUTTON}
 
 validate successful account creation
-  Wait Until Element Is Enabled  ${CUSTOMER_GENDER}  0.01s
+  Wait Until Element Is Enabled  ${CUSTOMER_GENDER}   1s
   Click Element  ${CUSTOMER_GENDER}
   ${First name}=  FakerLibrary.First name
    Log    ${First name}
