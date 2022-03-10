@@ -2,105 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d5b1772e-dd34-4e54-b538-d5430032feae" name="Changes" comment=" Profit commit 2">
-      <change afterPath="$PROJECT_DIR$/../Facebook_test/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Facebook_test/.idea/Facebook_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Facebook_test/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Facebook_test/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Facebook_test/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Facebook_test/Resources/Facebook_LoginResources.robot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Facebook_test/Results/log.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Facebook_test/Results/output.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Facebook_test/Results/report.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Facebook_test/Results/selenium-screenshot-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Facebook_test/Results/selenium-screenshot-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Facebook_test/Results/selenium-screenshot-3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Facebook_test/Results/selenium-screenshot-4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Facebook_test/Results/selenium-screenshot-5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Facebook_test/Tests/Facebook_Login.robot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Facebook_test/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GITPRO/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GITPRO/.idea/GITPRO.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GITPRO/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GITPRO/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GITPRO/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GITPRO/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Google_Tests/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Google_Tests/.idea/Google_Tests.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Google_Tests/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Google_Tests/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Google_Tests/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Google_Tests/Resources/Google_Automation.robot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Google_Tests/Results/log.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Google_Tests/Results/output.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Google_Tests/Results/report.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Google_Tests/Results/selenium-screenshot-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Google_Tests/Results/selenium-screenshot-10.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Google_Tests/Results/selenium-screenshot-11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Google_Tests/Results/selenium-screenshot-12.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Google_Tests/Results/selenium-screenshot-13.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Google_Tests/Results/selenium-screenshot-14.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Google_Tests/Results/selenium-screenshot-15.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Google_Tests/Results/selenium-screenshot-16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Google_Tests/Results/selenium-screenshot-17.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Google_Tests/Results/selenium-screenshot-18.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Google_Tests/Results/selenium-screenshot-19.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Google_Tests/Results/selenium-screenshot-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Google_Tests/Results/selenium-screenshot-20.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Google_Tests/Results/selenium-screenshot-21.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Google_Tests/Results/selenium-screenshot-22.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Google_Tests/Results/selenium-screenshot-23.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Google_Tests/Results/selenium-screenshot-24.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Google_Tests/Results/selenium-screenshot-25.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Google_Tests/Results/selenium-screenshot-26.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Google_Tests/Results/selenium-screenshot-27.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Google_Tests/Results/selenium-screenshot-28.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Google_Tests/Results/selenium-screenshot-29.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Google_Tests/Results/selenium-screenshot-3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Google_Tests/Results/selenium-screenshot-30.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Google_Tests/Results/selenium-screenshot-31.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Google_Tests/Results/selenium-screenshot-32.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Google_Tests/Results/selenium-screenshot-33.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Google_Tests/Results/selenium-screenshot-34.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Google_Tests/Results/selenium-screenshot-35.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Google_Tests/Results/selenium-screenshot-36.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Google_Tests/Results/selenium-screenshot-37.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Google_Tests/Results/selenium-screenshot-38.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Google_Tests/Results/selenium-screenshot-4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Google_Tests/Results/selenium-screenshot-5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Google_Tests/Results/selenium-screenshot-6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Google_Tests/Results/selenium-screenshot-7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Google_Tests/Results/selenium-screenshot-8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Google_Tests/Results/selenium-screenshot-9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Google_Tests/Tests/Login_tests.robot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Google_Tests/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HelloWorld/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HelloWorld/.idea/HelloWorld.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HelloWorld/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HelloWorld/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HelloWorld/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HelloWorld/Hello_World.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HelloWorld/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Orange_Tests/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Orange_Tests/.idea/Orange_Tests.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Orange_Tests/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Orange_Tests/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Orange_Tests/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Orange_Tests/Resources/Login_TestAutomation.robot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Orange_Tests/Results/log.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Orange_Tests/Results/output.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Orange_Tests/Results/report.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Orange_Tests/Tests/DataDriven_Tests.robot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Orange_Tests/Tests/Login_test_scenarios.robot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Orange_Tests/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Results/selenium-screenshot-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Results/selenium-screenshot-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Results/selenium-screenshot-3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Results/selenium-screenshot-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facebook_test/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Google_Tests/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Orange_Tests/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YourLoga_Fashion" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Loga_Automation.robot" beforeDir="false" afterPath="$PROJECT_DIR$/Resources/Loga_Automation.robot" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Results/log.html" beforeDir="false" afterPath="$PROJECT_DIR$/Results/log.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Results/output.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Results/output.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Results/report.html" beforeDir="false" afterPath="$PROJECT_DIR$/Results/report.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tests/User_Registration_Login.robot" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/User_Registration_Login.robot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Results/selenium-screenshot-1.png" beforeDir="false" afterPath="$PROJECT_DIR$/Results/selenium-screenshot-5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Results/selenium-screenshot-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Results/selenium-screenshot-3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Results/selenium-screenshot-4.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -116,6 +31,18 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="SYNC" />
   </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Resources/Loga_Automation.robot" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Tests/User_Registration_Login.robot" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -128,7 +55,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.VCS" />
   </component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
@@ -176,7 +103,14 @@
       <option name="project" value="LOCAL" />
       <updated>1645964233619</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary=" Profit commit 2">
+      <created>1646070982265</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1646070982265</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -193,7 +127,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Profit commit" />
     <MESSAGE value=" Profit commit 2" />
-    <option name="LAST_COMMIT_MESSAGE" value=" Profit commit 2" />
+    <MESSAGE value=" Profit commit 3" />
+    <option name="LAST_COMMIT_MESSAGE" value=" Profit commit 3" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
