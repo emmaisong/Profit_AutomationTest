@@ -4,7 +4,7 @@ Documentation  Smoke testing to validate the usage of robot framework as automat
 Resource       ../Resources/Loga_Automation.robot
 Suite Setup    set log level  DEBUG
 Test Setup     set selenium speed  0.01
-Suite Teardown   Close All Browsers
+#Suite Teardown   Close All Browsers
 
 *** Test Cases ***
 New User Registers and activates Account
