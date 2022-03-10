@@ -59,7 +59,7 @@ New User Account is created
    Click Element  ${CREATE_ACCOUNT_BUTTON}
 
 validate successful account creation
-  Wait Until Element Is Enabled  ${CUSTOMER_GENDER}   1s
+  Wait Until Element Is Enabled  ${CUSTOMER_GENDER}   5s
   Click Element  ${CUSTOMER_GENDER}
   ${First name}=  FakerLibrary.First name
    Log    ${First name}

@@ -1,21 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d5b1772e-dd34-4e54-b538-d5430032feae" name="Changes" comment=" Profit commit 2">
-      <change afterPath="$PROJECT_DIR$/../Facebook_test/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Google_Tests/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HelloWorld/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Orange_Tests/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../YourLoga_Fashion" afterDir="false" />
+    <list default="true" id="d5b1772e-dd34-4e54-b538-d5430032feae" name="Changes" comment=" Profit commit 3">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Resources/Loga_Automation.robot" beforeDir="false" afterPath="$PROJECT_DIR$/Resources/Loga_Automation.robot" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Results/log.html" beforeDir="false" afterPath="$PROJECT_DIR$/Results/log.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Results/output.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Results/output.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Results/report.html" beforeDir="false" afterPath="$PROJECT_DIR$/Results/report.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Results/selenium-screenshot-1.png" beforeDir="false" afterPath="$PROJECT_DIR$/Results/selenium-screenshot-5.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Results/selenium-screenshot-2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Results/selenium-screenshot-3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Results/selenium-screenshot-4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Results/selenium-screenshot-5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests/User_Registration_Login.robot" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/User_Registration_Login.robot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../YourLoga_Fashion" beforeDir="false" afterPath="$PROJECT_DIR$/../YourLoga_Fashion" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,7 +104,28 @@
       <option name="project" value="LOCAL" />
       <updated>1646070982265</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary=" Profit commit 2">
+      <created>1646941216505</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1646941216505</updated>
+    </task>
+    <task id="LOCAL-00005" summary=" Profit commit 3">
+      <created>1646944032312</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1646944032312</updated>
+    </task>
+    <task id="LOCAL-00006" summary=" Profit commit 3">
+      <created>1646944051370</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1646944051370</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
